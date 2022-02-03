@@ -1,6 +1,6 @@
 i = 1
-while i < 10:
+while i < 20:
   print(i)
-  if (i == 10):
+  if (i == 20):
     break
   i += 1
