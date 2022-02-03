@@ -1,5 +1,5 @@
 i = 1
-while i < 60:
+while i < 10:
   print(i)
   if (i == 10):
     break
