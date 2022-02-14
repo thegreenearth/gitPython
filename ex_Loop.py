@@ -1,5 +1,5 @@
 i = 1
-while i < 123456789:
+while i < 2222222:
   print(i)
   if (i == 20):
     break
